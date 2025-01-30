@@ -1,0 +1,1 @@
+This repository contains the data file (.csv) and code used to create the 4 tables and 2 figures found in the manuscript "Assessing the Usability and Satisfaction of a Concussion Rehabilitation App: A Pilot Study" by Hutchison et al (2025). 
